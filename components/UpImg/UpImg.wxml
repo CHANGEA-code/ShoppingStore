@@ -1,0 +1,5 @@
+<view class="upimg_wrap">
+  <!-- https://tva2.sinaimg.cn/large/007DFXDhgy1g62m0sy3o4j304y043aab.jpg -->
+  <image  src="{{src}}"></image>
+  <icon type="clear" color="red" size="20"></icon> 
+</view>
